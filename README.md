@@ -3,7 +3,7 @@
 <div align="center">
   
   <ul align="left" style="padding-right: 340px;">
-    <li> Dev iniciante🐣 </li><br>
+    <li> Dev iniciante 👨‍💻 </li><br>
     <li> Front  💻</li><br>
     <li> Artista digital inicante 🎨</li><br>
    </ul>
