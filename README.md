@@ -1,5 +1,4 @@
-## Bem-vindo(a) ao perfil do FerreiraG-Dev
-😁
+## Bem-vindo(a) ao perfil do FerreiraG-Dev🍂
 
  <div>
    <a href="https://github.com/FerreiraG-Dev">
