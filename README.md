@@ -1,5 +1,13 @@
-## Bem-vindo(a) ao perfil do FerreiraG-Dev🍂
-
+<h1> <i>Bem-vindo(a) ao perfil do FerreiraG-Dev🍂</i> </h1>
+<h2 align="center">&ensp; <i>Sobre</i> &ensp;</h2>
+<div align="center">
+  
+  <ul align="left" style="padding-right: 340px;">
+    <li> Dev iniciante🐣 </li><br>
+    <li> Front  💻</li><br>
+    <li> Artista digital inicante 🎨</li><br>
+   </ul>
+</div>
  <div>
    <a href="https://github.com/FerreiraG-Dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerreiraG-Dev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
